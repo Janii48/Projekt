@@ -1,0 +1,82 @@
+#menuszalag {
+    width: 100%;
+    background-color: goldenrod;
+    color: var(--feher);
+    height: 50px;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border-radius: 2%;
+}
+
+#menuszalag ul {
+    display: inline;
+}
+
+#menuszalag ul li {
+    display: inline;
+    padding: 10px;
+    line-height: 50px;
+    background-color: teal;
+    border: 1px solid black;
+}
+
+a {
+    color: var(--feher);
+    text-decoration: none;
+}
+
+
+body {
+    background-image: url(Kepek\\hatter.jpg);
+}
+
+.köszöntö {
+    background-color: white;
+    margin: auto;
+    width: 510px;
+    text-align: center;
+}
+
+#szöveg {
+    background-color: whitesmoke;
+    width: 600px;
+    font-size: 0.5cm;
+    font-family: "Times New Roman", Times, serif;
+    font-style: italic;
+    font-style: initial;
+    border-radius: 1%;
+    box-shadow: 0px 10px 10px 0px;
+    margin-top: -700px;
+}
+
+#kep1 {
+    width: 500px;
+    height: 250px;
+    margin-left: 1400px;
+    box-shadow: 1px 1px 1px 1px;
+}
+
+#kep2 {
+    width: 500px;
+    height: 250px;
+    margin-left: 900px;
+    margin-top: 0px;
+    box-shadow: 1px 1px 1px 1px;
+}
+
+.kep {
+    width: 500px;
+}
+
+a:hover {
+    background-color: red;
+    color: darkblue;
+}
+
+#buck {
+margin-left: 1570px;
+margin-top: -138px;
+}
+
+
+

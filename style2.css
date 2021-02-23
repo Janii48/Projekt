@@ -1,0 +1,46 @@
+#menuszalag {
+    width: 100%;
+    background-color: goldenrod;
+    color: var(--feher);
+    height: 50px;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border-radius: 2%;
+}
+
+#menuszalag ul {
+    display: inline;
+}
+
+#menuszalag ul li {
+    display: inline;
+    padding: 10px;
+    line-height: 50px;
+    background-color: teal;
+    border: 1px solid black;
+}
+
+a {
+    color: var(--feher);
+    text-decoration: none;
+}
+
+
+
+body {
+    background-image: url(Kepek\\hatter.jpg);
+}
+
+a:hover {
+    background-color: red;
+    color: darkblue;
+}
+
+img {
+    width: 400px;
+    height: 170px;
+}
+
+table {
+    margin: auto;
+}

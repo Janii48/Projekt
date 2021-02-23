@@ -1,0 +1,149 @@
+#menuszalag {
+    width: 100%;
+    background-color: goldenrod;
+    color: var(--feher);
+    height: 50px;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border-radius: 2%;
+}
+
+#menuszalag ul {
+    display: inline;
+}
+
+#menuszalag ul li {
+    display: inline;
+    padding: 10px;
+    line-height: 50px;
+    background-color: teal;
+    border: 1px solid black;
+}
+
+a {
+    color: var(--feher);
+    text-decoration: none;
+}
+
+
+
+body {
+    background-color: grey;
+}
+
+a:hover {
+    background-color: red;
+    color: darkblue;
+}
+
+.tippek {
+    background-color: white;
+    margin: auto;
+    width: 510px;
+    text-align: center;
+    border-radius: 10px;
+}
+
+#lista1 {
+    width: 500px;
+    background-color: whitesmoke;
+    border: 4px dotted black;
+    border-bottom: 0px;
+    position: relative;
+}
+
+#comp{
+margin-top: -600px;
+margin-left: 300px;
+
+}
+
+#supi {
+margin-left: 700px;
+margin-top: 10000px;
+position: absolute;
+}
+
+
+
+#agrip {
+  width: 250px;
+  height: 250px;
+  margin-left: 300px;
+margin-bottom: -100px;
+position: absolute;
+}
+
+#vgrip {
+    margin-right: 0;
+    margin-bottom: 0;
+    position: absolute;
+}
+
+
+#kep1 {
+    width: 250px;
+    height: 250px;
+}
+
+#ajl {
+    margin-left: 700px;
+    position: absolute;
+    margin-top: -400px;
+    background-color: whitesmoke;
+    border-radius: 3%;
+    height: 30px;
+    text-align: center;
+    width: 300px;
+    border: 2px dashed green;
+}
+
+table {
+    width: 800px;
+    height: 500px;
+    margin-left: 700px ;
+    margin-top: -300px;
+}
+
+#rook {
+    width: 250px;
+    height: 270px;
+}
+
+#kapkan {
+    width: 250px;
+    height: 270px;
+}
+
+#mute {
+    width: 250px;
+    height: 270px;
+}
+
+#pulse {
+    width: 250px;
+    height: 270px;
+}
+
+#sledge {
+    width: 250px;
+    height: 270px;
+}
+
+#glaz {
+    width: 250px;
+    height: 270px;
+}
+
+#iq {
+    width: 250px;
+    height: 270px;
+}
+
+#fuze {
+    width: 250px;
+    height: 270px;
+}
+
+
+
